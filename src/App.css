@@ -9,7 +9,7 @@ body,
     width: 700px;
     height: 400px;
     gap: 20px;
-    grid-template-columns: 1fr 50%;
+    grid-template-columns: 1fr 350px;
     grid-template-rows: auto 200px;
 }
 
